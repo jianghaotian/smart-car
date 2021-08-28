@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/smart-car/static/css/main.7cc2db8a.chunk.css",
+    "main.js": "/smart-car/static/js/main.3f94d0cc.chunk.js",
+    "main.js.map": "/smart-car/static/js/main.3f94d0cc.chunk.js.map",
+    "runtime-main.js": "/smart-car/static/js/runtime-main.4522ba38.js",
+    "runtime-main.js.map": "/smart-car/static/js/runtime-main.4522ba38.js.map",
+    "static/js/2.9b56a1a9.chunk.js": "/smart-car/static/js/2.9b56a1a9.chunk.js",
+    "static/js/2.9b56a1a9.chunk.js.map": "/smart-car/static/js/2.9b56a1a9.chunk.js.map",
+    "index.html": "/smart-car/index.html",
+    "static/css/main.7cc2db8a.chunk.css.map": "/smart-car/static/css/main.7cc2db8a.chunk.css.map",
+    "static/js/2.9b56a1a9.chunk.js.LICENSE.txt": "/smart-car/static/js/2.9b56a1a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4522ba38.js",
+    "static/js/2.9b56a1a9.chunk.js",
+    "static/css/main.7cc2db8a.chunk.css",
+    "static/js/main.3f94d0cc.chunk.js"
+  ]
+}
