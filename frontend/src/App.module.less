@@ -1,0 +1,32 @@
+.smart-car-container {
+  width: 1920px;
+  height: 1080px;
+  margin: 0 auto;
+  background-color: pink;
+  .smart-car-header {
+    width: 100%;
+    height: 60px;
+    background-color: lightskyblue;
+  }
+  .smart-car-section {
+    width: 100%;
+    height: calc(100% - 60px);
+    position: relative;
+    .left-rocker-container {
+      position: absolute;
+      bottom: 60px;
+      left: 60px;
+      width: 200px;
+      height: 200px;
+      background-color: burlywood;
+    }
+    .right-rocker-container {
+      position: absolute;
+      bottom: 60px;
+      right: 60px;
+      width: 200px;
+      height: 200px;
+      background-color: burlywood;
+    }
+  }
+}
